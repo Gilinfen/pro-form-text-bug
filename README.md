@@ -1,7 +1,3 @@
-提问前先看看：
-
-https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md
-
 ### 🐛 bug 描述
 
 ```tsx
@@ -9,11 +5,13 @@ import { ProForm, ProFormText } from "@ant-design/pro-components";
 ```
 使用 ProFormText 组件在触发表单校验会让页面闪一下
 
-![ProFormText 组件校验闪烁 bug](./bug.gif)
+![ProFormText 组件校验闪烁 bug](https://raw.githubusercontent.com/Gilinfen/pro-form-text-bug/refs/heads/main/bug.gif)
 
 ### 📷 复现步骤
 
 直接使用 ProFormText 组件就会有
+
+[demo 仓库地址]('https://github.com/Gilinfen/pro-form-text-bug')
 
 ### 🏞 期望结果
 
